@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- 
+  Please see the license.html file included with this distribution for 
+  attribution and copyright information.
+-->
+
+<root>
+	<!-- Library -->
+    <string name="library_category_label_realms">Realms</string>
+	<string name="library_recordtype_label_dungeons">Dungeons</string>
+	<string name="library_recordtype_empty_dungeons">&#171; New Dungeon &#187;</string>
+</root>

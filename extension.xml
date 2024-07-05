@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root version="3.0" release="0">
+	<announcement text="Dungeons" font="emotefont" icon="rulesetlogo_CoreRPG" />
+	<properties>
+		<name>Realms</name>
+		<version>0.1</version>
+		<ruleset>
+		  	<name>CoreRPG</name>
+		</ruleset>
+		<ruleset>
+			<name>RMU_FG_Ruleset</name>
+		</ruleset>
+		<ruleset>
+			<name>5E</name>
+		</ruleset>
+		<ruleset>
+			<name>RolemasterClassic</name>
+		</ruleset>
+	</properties>
+	<base>
+
+		<!-- Desktop -->
+		<includefile source="desktop/extension_desktop.xml" />
+
+		<!-- Graphics -->
+		<includefile source="graphics/extension_graphics.xml" />
+
+		<!-- Strings -->
+		<includefile source="strings/extension_strings.xml" />
+	
+		<!-- Utilities 
+		<includefile source="utility/base_utility.xml" />-->
+	</base>
+</root>
